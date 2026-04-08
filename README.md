@@ -1,4 +1,4 @@
-<h1 align="center">Capture The Flag (AI-Behaviour)</h1>
+<h1 align="center">Capture-The-Flag (AI Behaviour)</h1>
 
 # Introduction
 A Capture the flag game demonstrating AI Behaviour using Behaviour Tress and Finite State Machine in Unreal Engine
