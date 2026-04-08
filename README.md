@@ -86,5 +86,5 @@ In 6v6 Gamemode:
 - When attacking, agent will try and avoid player/other defending npcs while still moving towards its goal (flag location/taking flag home)
 - This was done by setting a nav mesh modifier around the defending agent/player with a nav area cost of 10
 
-
+*Created June, 2025*
 
